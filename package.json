@@ -1,10 +1,11 @@
 {
+  "homepage": "https://github.com/marcelsafont/npm-test-tectonica#readme"
   "name": "npm-test-marcel-safont",
   "version": "1.0.7",
   "description": "",
   "main": "dist/index.js",
   "bin": "dist/index.js",
-  "author": "",
+  "author": "marcel.safont1983@gmail,com",
   "license": "MIT",
   "devDependencies": {
     "react": "^17.0.2",
