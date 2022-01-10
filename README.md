@@ -3,9 +3,14 @@
 ```npm i npm-test-marcel-safont```
 
 ## componentes
-### button
-
+### Button
 #### props
 id
 type
 name
+
+### TitleText
+#### props
+title
+text
+
