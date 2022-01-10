@@ -1,11 +1,11 @@
-#custom npm Tectonica
-##instalation
-`npm i npm-test-marcel-safont`
+# custom npm Tectonica
+## instalation
+```npm i npm-test-marcel-safont```
 
-##componentes
-###button
+## componentes
+### button
 
-####props
+#### props
 id
 type
 name
